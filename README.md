@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/759ea31a-73ab-40c4-91d9-8fdc7c0c2631)# Online Examination System
+# Online Examination System
 <p>Online examinations are an important method of evaluating the success potential of students. 
 This research effort the individuals under consideration were students who would be enrolling in 
 computer courses or Technologies Registrations. A prototype of a web-based placement 
