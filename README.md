@@ -1,3 +1,4 @@
+
 # ExamPilot - Online Examination System
 
 A modern web-based examination platform that enables educational institutions to conduct online tests efficiently. The system provides a seamless experience for administrators, instructors, and students.
@@ -60,11 +61,6 @@ ExamPilot/
 
 ## Contributors
 
-- MD. MIRAJ ANSARI
-- NITYA PANDEY
 
-## License
-
-This project is licensed under the terms included in the LICENSE file.
 
 
