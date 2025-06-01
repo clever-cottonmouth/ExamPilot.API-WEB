@@ -8,9 +8,9 @@ software development.
 
 ## SCREENSHOTS
 
-<img src="https://github.com/clever-cottonmouth/ExamPilot.API-WEB/blob/main/images1/user.png?raw=true"></img>
-<img src="https://github.com/clever-cottonmouth/ExamPilot.API-WEB/blob/main/images1/send.png?raw=true"></img>
-<img src="https://github.com/clever-cottonmouth/ExamPilot.API-WEB/blob/main/images1/1.png?raw=true"></img>
+<img src="https://github.com/clever-cottonmouth/ExamPilot.API-WEB/blob/main/images1/user.png?raw=true"/>
+<img src="https://github.com/clever-cottonmouth/ExamPilot.API-WEB/blob/main/images1/send.png?raw=true"/>
+<img src="https://github.com/clever-cottonmouth/ExamPilot.API-WEB/blob/main/images1/1.png?raw=true"/>
 
 ## SCOPE
 This application is used to conduct online examination. The students can sit at individual 
