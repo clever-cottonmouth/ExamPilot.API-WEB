@@ -28,9 +28,6 @@ realization. Once the software requirements have been analysed and specified the
 design involves three technical activities - design, coding, implementation and testing that are 
 required to build and verify the software.
 
-## TEAM MEMBER:-
-MD. MIRAJ ANSARI </br>
-NITYA PANDEY</br>
 
 
 
