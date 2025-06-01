@@ -8,7 +8,6 @@ software development.
 
 ## SCREENSHOTS
 
-<img src="https://raw.githubusercontent.com/clever-cottonmouth/ExamPilot.API-WEB/refs/heads/main/images1/home.png"></img>
 <img src="https://github.com/clever-cottonmouth/ExamPilot.API-WEB/blob/main/images1/user.png?raw=true"></img>
 <img src="https://github.com/clever-cottonmouth/ExamPilot.API-WEB/blob/main/images1/send.png?raw=true"></img>
 <img src="https://github.com/clever-cottonmouth/ExamPilot.API-WEB/blob/main/images1/1.png?raw=true"></img>
