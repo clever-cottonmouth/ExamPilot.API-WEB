@@ -1,10 +1,17 @@
-# Online Examination System
+![image](https://github.com/user-attachments/assets/759ea31a-73ab-40c4-91d9-8fdc7c0c2631)# Online Examination System
 <p>Online examinations are an important method of evaluating the success potential of students. 
 This research effort the individuals under consideration were students who would be enrolling in 
 computer courses or Technologies Registrations. A prototype of a web-based placement 
 examination system is described from the stand point of the research effort, end user, and 
 software development.
 </p>
+
+## SCREENSHOTS
+
+<img src="https://raw.githubusercontent.com/clever-cottonmouth/ExamPilot.API-WEB/refs/heads/main/images1/home.png"></img>
+<img src="https://github.com/clever-cottonmouth/ExamPilot.API-WEB/blob/main/images1/user.png?raw=true"></img>
+<img src="https://github.com/clever-cottonmouth/ExamPilot.API-WEB/blob/main/images1/send.png?raw=true"></img>
+<img src="https://github.com/clever-cottonmouth/ExamPilot.API-WEB/blob/main/images1/1.png?raw=true"></img>
 
 ## SCOPE
 This application is used to conduct online examination. The students can sit at individual 
@@ -26,11 +33,6 @@ required to build and verify the software.
 MD. MIRAJ ANSARI </br>
 NITYA PANDEY</br>
 
-## SCREENSHOTS
 
-<img src="https://github.com/mirajhad/Online-Examination-System/blob/master/images1/home.png"></img>
-<img src="https://github.com/mirajhad/Online-Examination-System/blob/master/images1/user.png"></img>
-<img src="https://github.com/mirajhad/Online-Examination-System/blob/master/images1/send.png"></img>
-<img src="https://github.com/mirajhad/Online-Examination-System/blob/master/images1/1.png"></img>
 
 
