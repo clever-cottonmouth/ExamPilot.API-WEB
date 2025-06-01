@@ -1,0 +1,60 @@
+# IDE and Editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+.DS_Store
+
+# PHP specific
+/vendor/
+composer.lock
+.env
+*.log
+error_log
+php_errors.log
+
+# Project specific
+/docs/final_report.*
+/docs/*.pptx
+/docs/*.ppt
+/docs/*.pdf
+/docs/*.doc
+/docs/*.docx
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# Database
+*.sql
+*.sqlite
+*.db
+!docs/database.sql
+
+# Configuration files with sensitive data
+src/config/config.php
+!src/config/config.example.php
+
+# Dependencies
+/node_modules/
+/bower_components/
+
+# Build and distribution
+/dist/
+/build/
+*.zip
+*.tar.gz
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Environment files
+.env
+.env.*
+!.env.example 
